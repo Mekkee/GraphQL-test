@@ -8,3 +8,8 @@
 ## Dev dependencies
 #### npm i --save-dev nodemon
 
+## Start
+#### "scripts": {
+####    "devStart": "nodemon server.js"
+####  }
+#### Open terminal, type npm run devStart
