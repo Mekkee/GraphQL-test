@@ -2,7 +2,7 @@
 
 #### Test application for learning GraphQL
 
-## dependencies
+## Dependencies
 #### npm i express express-graphql graphql
 
 ## Dev dependencies
